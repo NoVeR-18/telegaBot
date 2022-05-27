@@ -1,0 +1,10 @@
+charset-normalizer==2.0.12
+et-xmlfile==1.1.0
+idna==3.3
+openpyxl==3.0.10
+pip==21.1.2
+pyTelegramBotAPI==4.5.1
+requests==2.27.1
+setuptools==57.0.0
+urllib3==1.26.9
+wheel==0.36.2
